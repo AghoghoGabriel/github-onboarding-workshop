@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Olaoluwa Ilesanmi
 
 ---
 
@@ -13,9 +6,11 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+- Class Managaement
+- How to create Github
+- How to collaborate on Github
+- How to fork a repository
+ 
 
 ---
 
@@ -24,20 +19,22 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+I created my github account
+I downloaded the class files
 
 ### What happened / Result
-
+It was successful
 
 ### Challenges I faced
-
+I did not fork the repository
+I tried to upload and it failed with an error
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+I learnt how to setup github repository
 
 ---
 
@@ -45,7 +42,11 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+- When I created my Github account and tried to create new files, my Readme file disappeared what could be the reason
+- See screenshot below:
+
+- <img width="724" height="176" alt="image" src="https://github.com/user-attachments/assets/171b998d-65c9-4078-8d27-770d67a162fd" />
+
 -
 
 ---
@@ -58,4 +59,4 @@
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Olaoluwa Ilesanmi · LaoluGit*
